@@ -1,0 +1,4 @@
+[submodule "claude-ai_architect_learningpath"]
+	path = claude-ai_architect_learningpath
+	url = https://github.com/contactkkiran/claude-ai_architect_learningpath.git
+	branch = main
